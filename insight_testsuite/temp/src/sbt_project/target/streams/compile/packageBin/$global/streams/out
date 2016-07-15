@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/insight_2016_intellij_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	media_degree$$anonfun$processTransaction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/media_degree$$anonfun$processTransaction$1.class[0m
+[0m[[0mdebug[0m] [0m	media_degree.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/media_degree.class[0m
+[0m[[0mdebug[0m] [0m	media_degree$$anonfun$processTransaction$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/media_degree$$anonfun$processTransaction$3.class[0m
+[0m[[0mdebug[0m] [0m	transaction.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/transaction.class[0m
+[0m[[0mdebug[0m] [0m	media_degree$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/media_degree$.class[0m
+[0m[[0mdebug[0m] [0m	media_degree$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/media_degree$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	transaction$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/transaction$.class[0m
+[0m[[0mdebug[0m] [0m	media_degree$$anonfun$processTransaction$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Giovanna/insight_giovanna/src/sbt_project/target/scala-2.11/classes/media_degree$$anonfun$processTransaction$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
