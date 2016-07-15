@@ -1,7 +1,8 @@
 Overview
 ========
 
-This app has been developed for the Insight Data Engineering program (fall 2016). More information can be found here: https://github.com/InsightDataScience/coding-challenge).
+This app has been developed for the Insight Data Engineering program (fall 2016). More information can be found here: https://github.com/InsightDataScience/coding-challenge).<br/>
+This version 2 contains improvements implemented after the code was submitted to Insight.
 <br/>
 <br/>
 Summary of the requirements:
