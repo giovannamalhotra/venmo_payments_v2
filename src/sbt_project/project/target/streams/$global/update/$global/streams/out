@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/Giovanna/insight_giovanna/src/sbt_project/project/}sbt_project-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/}sbt_project-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#sbt_project-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -16,7 +16,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#sbt_project-build;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#sbt_project-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bbe0187[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f4d6e0e[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -1766,19 +1766,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 708ms :: artifacts dl 33ms[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT compile produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT runtime produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT test produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT provided produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT optional produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT compile-internal produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT runtime-internal produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT test-internal produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT plugin produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT sources produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT docs produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT pom produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT scala-tool produced in /Users/Giovanna/insight_giovanna/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (708ms resolve - 33ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3412ms :: artifacts dl 96ms[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT compile produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT runtime produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT test produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT provided produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT optional produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT compile-internal produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT runtime-internal produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT test-internal produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT plugin produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT sources produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT docs produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT pom produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#sbt_project-build;0.1-SNAPSHOT scala-tool produced in /Users/Giovanna/repos/venmo_payments_v2/src/sbt_project/project/target/resolution-cache/reports/default-sbt_project-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (3412ms resolve - 96ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
