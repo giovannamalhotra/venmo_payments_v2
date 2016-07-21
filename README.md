@@ -35,7 +35,7 @@ Java version used:
 
 <p>Scala version: 2.11.8</p>
 
-<p>A jar file was generated and placed under /src/. Name of the jar file is: insight_2016_intellij_2.11-1.0.jar </p>
+<p>A jar file was generated and placed under /src/. Name of the jar file is: venmo_payments_v2_2.11-1.0.jar </p>
 
 <br/>
 <br/>
@@ -45,7 +45,7 @@ Repo Structure
     ├── README.md 
     ├── run.sh
     ├── src
-    │       ├── insight_2016_intellij_2.11-1.0.jar
+    │       ├── venmo_payments_v2_2.11-1.0.jar
     │       ├── lib
     │       │      ├── joda-convert-1.2.jar
     │       │      ├── json4s-core_2.11-3.3.0.jar
@@ -61,7 +61,7 @@ Repo Structure
     │           └── src
     │                   └── main
     │                         └── scala
-    │                                └── media_degree.scala
+    │                                └── VenmoPayments.scala
     │
     │
     ├── venmo_input
