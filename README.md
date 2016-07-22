@@ -59,9 +59,17 @@ Repo Structure
     │       │      ├── scala-library-2.11.8.jar
     │       ├── sbt_project
     │           └── src
-    │                   └── main
+    │                   │── main
+    │                   │     └── scala
+    │                   │            └── com.giovanna
+    │                   │                     └── Transaction
+    │                   │                     └── VenmoGraph    
+    │                   │            └── VenmoPayments.scala
+    │                   └── test
     │                         └── scala
-    │                                └── VenmoPayments.scala
+    │                                └── com.giovanna
+    │                                         └── TransactionTests
+    │                                         └── VenmoGraphTests    
     │
     │
     ├── venmo_input
