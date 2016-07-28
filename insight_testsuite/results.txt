@@ -1,6 +1,0 @@
-[Wed Jul 27 17:07:07 PDT 2016] 5 of 7 tests passed
-[Wed Jul 27 19:49:18 PDT 2016] 7 of 7 tests passed
-[Wed Jul 27 19:54:10 PDT 2016] 7 of 8 tests passed
-[Wed Jul 27 23:00:41 PDT 2016] 7 of 8 tests passed
-[Wed Jul 27 23:03:10 PDT 2016] 8 of 9 tests passed
-[Wed Jul 27 23:11:11 PDT 2016] 8 of 9 tests passed
