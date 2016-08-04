@@ -938,13 +938,3 @@
 {"created_time": "2016-03-29T02:15:42Z", "target": "Alex-Johnson-31", "actor": "Eli-Moreh"}
 {"created_time": "2016-03-29T02:15:42Z", "target": "Alex-Johnson-31", "actor": "JustinPepe_"}
 {"created_time": "2016-03-29T02:15:44Z", "target": "zhengyang-zhang-1", "actor": "Clarkadler"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Kaitlin-Morley", "actor": "Clarkadler"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Joey-Feste", "actor": "Clarkadler"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Kaitlin-Morley", "actor": "zhengyang-zhang-1"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Joey-Feste", "actor": "zhengyang-zhang-1"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Joey-Feste", "actor": "Kaitlin-Morley"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "mackle", "actor": "Marc-Chao"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Daniela-Federman", "actor": "hokansonluke"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "michaeljustus", "actor": "hokansonluke"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "michaeljustus", "actor": "Daniela-Federman"}
-{"created_time": "2016-03-29T02:15:44Z", "target": "Justin-Yi-8", "actor": "Duncan-Milne"}

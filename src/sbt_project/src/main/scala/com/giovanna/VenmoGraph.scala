@@ -301,9 +301,9 @@ class VenmoGraph() {
       var medianValStr = "%.2f".format(calcMedian(sortedGraphDegreesArray)).toString
 
       /** Write new media degree to output file */
-      if (lineNum > 943 && lineNum < 947) {
-        println("sortedGraphDegreesArray:" + sortedGraphDegreesArray + ", map:" + vertexMap)
-      }
+      //if (lineNum > 943 && lineNum < 947) {
+      //  println("sortedGraphDegreesArray:" + sortedGraphDegreesArray + ", map:" + vertexMap)
+      //}
       println("MEDIAN: " + medianValStr)
       val write = new PrintWriter(new FileOutputStream(outputFile, true))
       write.write(medianValStr + "\n")
